@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.28-informational)](https://soliditylang.org)
-[![Foundry CI](https://github.com/aya-market/core/actions/workflows/foundry.yml/badge.svg)](https://github.com/aya-market/core/actions)
 
 Aya Market is a decentralized, blockchain-powered consumer marketplace focused on onboarding users through the trade of culturally relevant and essential goods. The platform connects local sellers and buyers through smart contracts that ensure trustless transactions, transparency, and community-driven reputation systems.
 ### Vision
