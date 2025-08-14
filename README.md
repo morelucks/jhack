@@ -1,66 +1,28 @@
-## Foundry
+# 🌱 Aya Market
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.28-informational)](https://soliditylang.org)
+[![Foundry CI](https://github.com/aya-market/core/actions/workflows/foundry.yml/badge.svg)](https://github.com/aya-market/core/actions)
 
-Foundry consists of:
+Aya Market is a decentralized, blockchain-powered consumer marketplace focused on onboarding users through the trade of culturally relevant and essential goods. The platform connects local sellers and buyers through smart contracts that ensure trustless transactions, transparency, and community-driven reputation systems.
+### Vision
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+To empower local economies by providing a trustless, efficient, and transparent way for everyday users to trade essential goods and handmade products on-chain — without requiring deep technical knowledge of blockchain.
 
-## Documentation
+---
 
-https://book.getfoundry.sh/
+### Objectives
 
-## Usage
+* *Onboard non-crypto natives* through real-world use cases.
+* *Empower local vendors* with global exposure.
+* *Facilitate low-cost, secure transactions* using stablecoins and crypto wallets.
+* *Foster trust and transparency* via smart contracts and on-chain reputations.
 
-### Build
+---
 
-```shell
-$ forge build
-```
+###  Target Audience
 
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+* Local artisans and food vendors
+* Urban and rural consumers
+* Students and young professionals
+* Diaspora users interested in purchasing from their hometowns
